@@ -16,7 +16,7 @@
     font-style: normal;
     align-items: center;
     font-size: small;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 10;
   }
 
@@ -51,16 +51,14 @@
   word-spacing: 10px;
   gap: 250px;
   padding: 20px;
-  align-items: center;
+  justify-content: space-around;
 }
 
-#nome {
- margin-left: 40px; 
-}
 
 #top2 {
   justify-content: center;
   font-size: 50px;
   display: flex;
-  gap: 400px;
+  gap: 40px;
+  align-items: center;
 }
